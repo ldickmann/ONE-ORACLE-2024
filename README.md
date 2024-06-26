@@ -7,13 +7,15 @@
 * **Módulo:** Hábitos: da produtividade às metas pessoais
 * **Módulo:** LinkedIn: como fazer o seu perfil trabalhar para você
 * **Módulo:** Lógica de programação: mergulhe em programação com JavaScript
+* **Módulo:** Lógica de programação: explore funções e listas
 
 ## Módulo em Andamento
-* **Módulo:** Lógica de programação: explore funções e listas
+
+* **Módulo:** ChatGPT: otimizando a qualidade dos resultados
 
 ## Diretórios
 * O repositório atual conta com o diretório 'game-js-curso_2', que está sendo utilizado para acompanhar o módulo e aplicar os conhecimentos em JavaScript.</br>
 * Também conta com o diretório 'desafios-funcoes-listas-JS', que é onde realizei os desafios propostos durante o curso.
 
-### Atualmente participante do ONE = Lucas E. Dickmann
+### Atualmente participante do ONE - Lucas E. Dickmann
 https://www.linkedin.com/in/lucas-dickmann
